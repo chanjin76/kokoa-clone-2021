@@ -9,3 +9,24 @@
   color: white;
   font-weight: 600;
 }
+.badge2 {
+  background-color: tomato;
+  width: 7px;
+  height: 7px;
+  border-radius: 3.5px;
+  align-items: center;
+  position: absolute;
+  left: 80px;
+  bottom: 20px;
+}
+
+.badge3 {
+  background-color: tomato;
+  width: 7px;
+  height: 7px;
+  border-radius: 3.5px;
+  align-items: center;
+  position: absolute;
+  left: 140px;
+  bottom: 20px;
+}
